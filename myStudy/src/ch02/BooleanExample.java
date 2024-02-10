@@ -9,6 +9,7 @@ public class BooleanExample {
 		} else {
 			System.out.println("시작합니다.");
 		}
+		System.out.println("hello");
 	}
 
 }
