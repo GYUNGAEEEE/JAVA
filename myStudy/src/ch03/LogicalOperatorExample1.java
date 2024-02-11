@@ -1,6 +1,6 @@
 package ch03;
 
-public class LogicalOperatorExample {
+public class LogicalOperatorExample1 {
 
 	public static void main(String[] args) {
 		int charCode = 'A';		
