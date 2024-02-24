@@ -1,4 +1,4 @@
-package ch01aaa;
+package ch01;
 
 /**
  *작성자: GYUNGAE
