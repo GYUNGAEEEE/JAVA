@@ -28,7 +28,7 @@ class Child extends Parent {
 	
 	void method() {
 		System.out.println("x = " + x); //this.x와 같다.
-		System.out.println("super.x = " + x);
+		System.out.println("super.x = " + super.x);
 		System.out.println("this.x = " + this.x);
 	}
 }
